@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Marta Stefanović</h1>
 <h3 align="center">I am in my final year at School of Electrical Engineering (University of Belgrade). I am ready to engage and seek a job in the field of web development or software engeener or mobile development. I am excited about the opportunity to gain practical experience and enhance my skills in this dynamic and creative industry.</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/f8561052d5519d5b219d3d02cdf56d0969d2cdab435e6739ba6b7cb26866f5fe/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f646973702f3630313031343131363737303437352e363036386265666634363430612e676966">
-
-- 🌱 I’m currently learning **full-stack web development**
 
 - 📫 How to reach me **stefanovicmarta00@gmail.com**
 
