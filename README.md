@@ -2,8 +2,8 @@
 <h3 align="center">I am in my final year at School of Electrical Engineering (University of Belgrade). I am ready to engage and seek a job in the field of web development or software engeener or mobile development. I am excited about the opportunity to gain practical experience and enhance my skills in this dynamic and creative industry.</h3>
 
 <h3 align="left">Connect with me:</h3>
-- 📫 How to reach me **stefanovicmarta00@gmail.com**
-- 📫 How to reach me <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">linkedIn</a>
+<p>- 📫 How to reach me **stefanovicmarta00@gmail.com**</p>
+<p>- 📫 How to reach me <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile">linkedIn</a></p>
 
 <p align="left">
 </p>
